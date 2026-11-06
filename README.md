@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Caseyk13 Or Casey Kluesner
-- 👀 I’m interested in Anything i would like to dabbel in a little bit of everything. 
-- 🌱 I’m currently learning python , Java, and sql right now. I am also learning about data structure's as well as Stack's And Queque's. I have some experiance in c# as well as the microsoft suit and access.
+- 👋 Hi, I’m @Caseyk13 Or Casey, a developer-in-progress from Iowa. I earned my AAS in Computer Information Systems at DMACC and hold certifications in SQL, Java, and Python. I’m building a portfolio of practical projects while growing my skills in software development and AI. I enjoy volunteering my tech skills for local causes and learning something new with every commit.
 - 💞️ I’m looking to collaborate on anything. 
 - 📫 How to reach me Please reach out to me via email or dm here. 
 
